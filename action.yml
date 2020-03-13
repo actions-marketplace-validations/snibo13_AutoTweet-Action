@@ -4,8 +4,8 @@ inputs:
         commit-message:
                 description: 'Contents of the commit'
                 required: true
-Label: cloud
-Color: blue
+icon: cloud
+color: blue
 outputs:
 runs:
         using: 'node12'
