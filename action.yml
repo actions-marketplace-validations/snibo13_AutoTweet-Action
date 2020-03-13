@@ -1,5 +1,6 @@
 name: "Commit Message Telegram"
 description: "Send a message to a telegram user everytime a push is commited"
+author: "Sidney Nimako"
 branding: 
   icon: 'cloud'
   color: 'blue'
