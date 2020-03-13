@@ -1,0 +1,10 @@
+name: "Commit Message Telegram"
+description: "Send a message to a telegram user everytime a push is commited"
+inputs:
+        commit-message:
+                description: 'Contents of the commit'
+                required: true
+outputs:
+runs:
+        using: 'node12'
+        main: 'index.js'
